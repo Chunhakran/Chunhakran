@@ -7,7 +7,7 @@
 - 🔭 ปัจจุบันกำลังทำโปรเจกต์เกี่ยวกับ **[ชื่อโปรเจกต์หรืองานที่ทำ]**
 - 🌱 กำลังเรียนรู้และพัฒนาทักษะด้าน **[เทคโนโลยีหรือภาษาที่กำลังฝึก]**
 - 💬 สามารถพูดคุยและปรึกษาเรื่อง **[หัวข้อที่คุณถนัด เช่น Web Development, Python]**
-- 📫 ช่องทางติดต่อ: **[ใส่อีเมลของคุณ]**
+- 📫 ช่องทางติดต่อ: chunhakran.c@ku.th
 - ⚡ Fun fact: **[ใส่เรื่องสนุกๆ เกี่ยวกับตัวคุณสั้นๆ]**
 
 ---
@@ -37,7 +37,7 @@
 (หมายเหตุ: เปลี่ยนคำว่า YOUR_USERNAME เป็นชื่อผู้ใช้ GitHub ของคุณทั้ง 2 จุด)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viewie&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
