@@ -1,5 +1,5 @@
 <h1 align="center"> Hi I'm viewie 👋</h1>
-<h3 align="center"> Infoemation Technology
+<h3 align="center"> Information Technology
 
 ---
 
