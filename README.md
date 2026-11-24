@@ -45,5 +45,6 @@
 <p align="left">
   <a href="https://www.instagram.com/vviewiee?lqvp=MXB1bmx0NWx2ZHZ2Mw==" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-  <a href="https://facebook.com/YOUR_FACEBOOK" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
+ <a href="https://line.me/ti/p/ANmuzCariN" target="_blank">
+  <img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE" />
+</a>
