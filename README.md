@@ -1,5 +1,5 @@
 <h1 align="center"> Hi  👋</h1>
-<h3 align="center"> IT Student
+<h3 align="center"> Infoemation Technology
 
 ---
 
