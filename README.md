@@ -33,7 +33,6 @@
 ---
 
 ### 📊 สถิติ GitHub ของผม (GitHub Stats)
-(หมายเหตุ: เปลี่ยนคำว่า YOUR_USERNAME เป็นชื่อผู้ใช้ GitHub ของคุณทั้ง 2 จุด)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chunhakran&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
