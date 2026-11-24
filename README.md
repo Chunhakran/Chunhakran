@@ -1,9 +1,9 @@
-<h1 align="center"> Hi  👋</h1>
+<h1 align="center"> Hi I'm viewie 👋</h1>
 <h3 align="center"> Infoemation Technology
 
 ---
 
-### 👨‍💻 เกี่ยวกับวิววี่ (About Me)
+### 👨‍💻 About viewie
 - 🔭 ปัจจุบันกำลังทำโปรเจกต์ด้าน **เทคโนโลยีสารสนเทศ (IT)**
 - 🌱 กำลังเรียนรู้และพัฒนาทักษะด้าน **Software Development**
 - 💬 ยินดีพูดคุยและแลกเปลี่ยนความรู้ด้านเทคโนโลยีและการพัฒนาซอฟต์แวร์
