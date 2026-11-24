@@ -8,7 +8,7 @@
 - 🌱 กำลังเรียนรู้และพัฒนาทักษะด้าน **Software Development**
 - 💬 ยินดีพูดคุยและแลกเปลี่ยนความรู้ด้านเทคโนโลยีและการพัฒนาซอฟต์แวร์
 - 📫 ช่องทางติดต่อ: chunhakran.c@ku.th 
-
+- ⚡ Fun fact: My brain has too many tabs open, and half of them are about food 🍕🧠
 
 ---
 
