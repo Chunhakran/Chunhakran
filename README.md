@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 เกี่ยวกับผม (About Me)
-- 🔭 ปัจจุบันกำลังทำโปรเจกต์เกี่ยวกับ IT Student
+- 🔭 ปัจจุบันกำลังทำโปรเจกต์เกี่ยวกับ IT 
 - 🌱 กำลังเรียนรู้และพัฒนาทักษะด้าน IT
 - 💬 สามารถพูดคุยและปรึกษาเรื่อง IT
 - 📫 ช่องทางติดต่อ: chunhakran.c@ku.th
@@ -37,8 +37,8 @@
 (หมายเหตุ: เปลี่ยนคำว่า YOUR_USERNAME เป็นชื่อผู้ใช้ GitHub ของคุณทั้ง 2 จุด)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viewie&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chunhakran&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chunhakran&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
